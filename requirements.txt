@@ -3,6 +3,6 @@ folium==0.8.3
 geopandas==0.4.1
 matplotlib==3.0.3
 networkx==2.3
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 rpy2==3.0.3
